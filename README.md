@@ -53,4 +53,7 @@ Manual SQL injections (or manual pen testing in general) via random payloads is 
 
 When I do come across a vulnerability that requires scripting/automation in the future, such as a blind SQL injection vulnerability, I will have been more familiar with it. For instance, many blind SQLi vulnerabilities require some form of enumeration (i.e. password enumeration/brute-force). Rather than using Burp Intruder to do the enumeration, I can script the enumeration process in Python instead.
 
+## References
+https://github.com/kienmarkdo/SQL-Injection-Labs
+
 <!-- Written by Kien Do: https://github.com/kienmarkdo/SQL-Injection-Labs -->
